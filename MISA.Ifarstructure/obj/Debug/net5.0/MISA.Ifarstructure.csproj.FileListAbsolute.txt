@@ -1,0 +1,15 @@
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\bin\Debug\net5.0\MISA.Core.dll
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\obj\Debug\net5.0\MISA.Ifarstructure.csprojAssemblyReference.cache
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\obj\Debug\net5.0\MISA.Ifarstructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\obj\Debug\net5.0\MISA.Ifarstructure.AssemblyInfoInputs.cache
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\obj\Debug\net5.0\MISA.Ifarstructure.AssemblyInfo.cs
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\bin\Debug\net5.0\MISA.Ifarstructure.deps.json
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\bin\Debug\net5.0\MISA.Ifarstructure.dll
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\bin\Debug\net5.0\ref\MISA.Ifarstructure.dll
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\bin\Debug\net5.0\MISA.Ifarstructure.pdb
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\bin\Debug\net5.0\MISA.Core.pdb
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\obj\Debug\net5.0\MISA.Ifarstructure.csproj.CoreCompileInputs.cache
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\obj\Debug\net5.0\MISA.Ifarstructure.csproj.CopyComplete
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\obj\Debug\net5.0\MISA.Ifarstructure.dll
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\obj\Debug\net5.0\ref\MISA.Ifarstructure.dll
+D:\Misa\C#\API\MISA.CukCuk\MISA.Ifarstructure\obj\Debug\net5.0\MISA.Ifarstructure.pdb
