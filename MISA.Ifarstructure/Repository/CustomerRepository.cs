@@ -1,5 +1,5 @@
 ﻿using MISA.Core.Entities;
-using MISA.Core.Interfaces.Ifarstructure;
+using MISA.Core.Interfaces.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Data;

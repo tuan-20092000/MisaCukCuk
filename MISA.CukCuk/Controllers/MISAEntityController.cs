@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MISA.Core.Interfaces.Ifarstructure;
+using MISA.Core.Interfaces.Infrastructure;
 using MISA.Core.Interfaces.Service;
 using System;
 using System.Collections.Generic;

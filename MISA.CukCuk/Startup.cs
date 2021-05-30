@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using MISA.Core.Interfaces.Ifarstructure;
+using MISA.Core.Interfaces.Infrastructure;
 using MISA.Core.Interfaces.Service;
 using MISA.Core.Services;
 using MISA.Ifarstructure.Repository;

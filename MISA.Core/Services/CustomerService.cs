@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Dapper;
-using MISA.Core.Interfaces.Ifarstructure;
+using MISA.Core.Interfaces.Infrastructure;
 
 namespace MISA.Core.Services
 {
